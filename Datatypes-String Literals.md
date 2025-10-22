@@ -16,7 +16,7 @@ print("You entered:", user_input)
 
 ## Output
 
-![Screenshot 2025-05-05 210017](https://github.com/user-attachments/assets/f547f62c-1835-4a9d-868d-56d4849d0934)
+<img width="1242" height="216" alt="image" src="https://github.com/user-attachments/assets/363c8dcb-e746-4e4b-a7c2-cde59d0e6b8f" />
 
 
 ## Result
